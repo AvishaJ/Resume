@@ -35,7 +35,7 @@ body {
 
 .resume .resume_left {
   width: 280px;
-  background: #0bb5f4;
+  background: #dda0e8;
 }
 
 .resume .resume_left .resume_profile {
@@ -57,16 +57,16 @@ body {
 }
 
 .resume .resume_left .bold {
-  color: #fff;
+  color: rgb(101, 20, 86);
 }
 
 .resume .resume_left .regular {
-  color: #b1eaff;
+  color: #042d3b;
 }
 
 .resume .resume_item {
   padding: 25px 0;
-  border-bottom: 2px solid #b1eaff;
+  border-bottom: 2px solid #7934ab;
 }
 
 .resume .resume_left .resume_item:last-child,
@@ -88,7 +88,7 @@ body {
   width: 35px;
   height: 35px;
   background: #fff;
-  color: #0bb5f4;
+  color: rgb(101, 20, 86);
   border-radius: 50%;
   margin-right: 15px;
   font-size: 16px;
@@ -123,7 +123,7 @@ body {
   width: 60%;
   margin: 0 5px;
   height: 5px;
-  background: #009fd9;
+  background: rgb(101, 20, 86);
   position: relative;
 }
 
@@ -151,7 +151,7 @@ body {
 }
 
 .resume .resume_right .bold {
-  color: #0bb5f4;
+  color: #rgb(101, 20, 86);
 }
 
 .resume .resume_right .resume_work ul,
